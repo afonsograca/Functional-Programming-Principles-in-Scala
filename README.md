@@ -1,8 +1,3 @@
----
-layout: page
-title: Functional Programming Principles in Scala
----
-
 This cheat sheet originated from the MOOC Functional Programming Principles in Scala, credits to Laurent Poulain.
 
 ## Evaluation Rules

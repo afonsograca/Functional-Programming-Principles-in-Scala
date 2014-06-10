@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /Users/AfonsoGraca/Documents/Development/Coursera/Functional Programming Principles in Scala/objsets/target/scala-2.10/progfun-objsets_2.10-1.0.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	common/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/AfonsoGraca/Documents/Development/Coursera/Functional Programming Principles in Scala/objsets/src/main/scala/common/package.scala[0m
+[0m[[0mdebug[0m] [0m	objsets/TweetData.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/AfonsoGraca/Documents/Development/Coursera/Functional Programming Principles in Scala/objsets/src/main/scala/objsets/TweetData.scala[0m
+[0m[[0mdebug[0m] [0m	objsets/TweetReader.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/AfonsoGraca/Documents/Development/Coursera/Functional Programming Principles in Scala/objsets/src/main/scala/objsets/TweetReader.scala[0m
+[0m[[0mdebug[0m] [0m	objsets/TweetSet.scala[0m
+[0m[[0mdebug[0m] [0m	  /Users/AfonsoGraca/Documents/Development/Coursera/Functional Programming Principles in Scala/objsets/src/main/scala/objsets/TweetSet.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
